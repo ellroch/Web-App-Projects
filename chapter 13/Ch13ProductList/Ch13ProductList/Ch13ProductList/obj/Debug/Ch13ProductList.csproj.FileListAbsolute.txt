@@ -1,0 +1,60 @@
+C:\Users\Maryd.TECHKNOWSOLVE\OneDrive\Documents\ASPNET4.6.Rewrite\bookapps\ch13\Ch13ProductList\Ch13ProductList\bin\roslyn\csc.exe
+C:\Users\Maryd.TECHKNOWSOLVE\OneDrive\Documents\ASPNET4.6.Rewrite\bookapps\ch13\Ch13ProductList\Ch13ProductList\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Maryd.TECHKNOWSOLVE\OneDrive\Documents\ASPNET4.6.Rewrite\bookapps\ch13\Ch13ProductList\Ch13ProductList\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Maryd.TECHKNOWSOLVE\OneDrive\Documents\ASPNET4.6.Rewrite\bookapps\ch13\Ch13ProductList\Ch13ProductList\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Maryd.TECHKNOWSOLVE\OneDrive\Documents\ASPNET4.6.Rewrite\bookapps\ch13\Ch13ProductList\Ch13ProductList\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Maryd.TECHKNOWSOLVE\OneDrive\Documents\ASPNET4.6.Rewrite\bookapps\ch13\Ch13ProductList\Ch13ProductList\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Maryd.TECHKNOWSOLVE\OneDrive\Documents\ASPNET4.6.Rewrite\bookapps\ch13\Ch13ProductList\Ch13ProductList\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Maryd.TECHKNOWSOLVE\OneDrive\Documents\ASPNET4.6.Rewrite\bookapps\ch13\Ch13ProductList\Ch13ProductList\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Maryd.TECHKNOWSOLVE\OneDrive\Documents\ASPNET4.6.Rewrite\bookapps\ch13\Ch13ProductList\Ch13ProductList\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Maryd.TECHKNOWSOLVE\OneDrive\Documents\ASPNET4.6.Rewrite\bookapps\ch13\Ch13ProductList\Ch13ProductList\bin\roslyn\vbc.exe
+C:\Users\Maryd.TECHKNOWSOLVE\OneDrive\Documents\ASPNET4.6.Rewrite\bookapps\ch13\Ch13ProductList\Ch13ProductList\bin\roslyn\VBCSCompiler.exe
+C:\Users\Maryd.TECHKNOWSOLVE\OneDrive\Documents\ASPNET4.6.Rewrite\bookapps\ch13\Ch13ProductList\Ch13ProductList\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Maryd.TECHKNOWSOLVE\OneDrive\Documents\ASPNET4.6.Rewrite\bookapps\ch13\Ch13ProductList\Ch13ProductList\bin\Ch13ProductList.dll.config
+C:\Users\Maryd.TECHKNOWSOLVE\OneDrive\Documents\ASPNET4.6.Rewrite\bookapps\ch13\Ch13ProductList\Ch13ProductList\bin\Ch13ProductList.dll
+C:\Users\Maryd.TECHKNOWSOLVE\OneDrive\Documents\ASPNET4.6.Rewrite\bookapps\ch13\Ch13ProductList\Ch13ProductList\bin\Ch13ProductList.pdb
+C:\Users\Maryd.TECHKNOWSOLVE\OneDrive\Documents\ASPNET4.6.Rewrite\bookapps\ch13\Ch13ProductList\Ch13ProductList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Maryd.TECHKNOWSOLVE\OneDrive\Documents\ASPNET4.6.Rewrite\bookapps\ch13\Ch13ProductList\Ch13ProductList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Maryd.TECHKNOWSOLVE\OneDrive\Documents\ASPNET4.6.Rewrite\bookapps\ch13\Ch13ProductList\Ch13ProductList\obj\Debug\Ch13ProductList.csprojResolveAssemblyReference.cache
+C:\Users\Maryd.TECHKNOWSOLVE\OneDrive\Documents\ASPNET4.6.Rewrite\bookapps\ch13\Ch13ProductList\Ch13ProductList\obj\Debug\Ch13ProductList.dll
+C:\Users\Maryd.TECHKNOWSOLVE\OneDrive\Documents\ASPNET4.6.Rewrite\bookapps\ch13\Ch13ProductList\Ch13ProductList\obj\Debug\Ch13ProductList.pdb
+C:\aspnet46_cs\book_applications\Ch13ProductList\Ch13ProductList\bin\roslyn\csc.exe
+C:\aspnet46_cs\book_applications\Ch13ProductList\Ch13ProductList\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\aspnet46_cs\book_applications\Ch13ProductList\Ch13ProductList\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\aspnet46_cs\book_applications\Ch13ProductList\Ch13ProductList\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\aspnet46_cs\book_applications\Ch13ProductList\Ch13ProductList\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\aspnet46_cs\book_applications\Ch13ProductList\Ch13ProductList\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\aspnet46_cs\book_applications\Ch13ProductList\Ch13ProductList\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\aspnet46_cs\book_applications\Ch13ProductList\Ch13ProductList\bin\roslyn\System.Collections.Immutable.dll
+C:\aspnet46_cs\book_applications\Ch13ProductList\Ch13ProductList\bin\roslyn\System.Reflection.Metadata.dll
+C:\aspnet46_cs\book_applications\Ch13ProductList\Ch13ProductList\bin\roslyn\vbc.exe
+C:\aspnet46_cs\book_applications\Ch13ProductList\Ch13ProductList\bin\roslyn\VBCSCompiler.exe
+C:\aspnet46_cs\book_applications\Ch13ProductList\Ch13ProductList\bin\roslyn\VBCSCompiler.exe.config
+C:\aspnet46_cs\book_applications\Ch13ProductList\Ch13ProductList\bin\Ch13ProductList.dll.config
+C:\aspnet46_cs\book_applications\Ch13ProductList\Ch13ProductList\bin\Ch13ProductList.dll
+C:\aspnet46_cs\book_applications\Ch13ProductList\Ch13ProductList\bin\Ch13ProductList.pdb
+C:\aspnet46_cs\book_applications\Ch13ProductList\Ch13ProductList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\aspnet46_cs\book_applications\Ch13ProductList\Ch13ProductList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\aspnet46_cs\book_applications\Ch13ProductList\Ch13ProductList\obj\Debug\Ch13ProductList.csprojResolveAssemblyReference.cache
+C:\aspnet46_cs\book_applications\Ch13ProductList\Ch13ProductList\obj\Debug\Ch13ProductList.dll
+C:\aspnet46_cs\book_applications\Ch13ProductList\Ch13ProductList\obj\Debug\Ch13ProductList.pdb
+D:\CIS 375\chapter 13\Ch13ProductList\Ch13ProductList\Ch13ProductList\bin\roslyn\csc.exe
+D:\CIS 375\chapter 13\Ch13ProductList\Ch13ProductList\Ch13ProductList\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\CIS 375\chapter 13\Ch13ProductList\Ch13ProductList\Ch13ProductList\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\CIS 375\chapter 13\Ch13ProductList\Ch13ProductList\Ch13ProductList\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\CIS 375\chapter 13\Ch13ProductList\Ch13ProductList\Ch13ProductList\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\CIS 375\chapter 13\Ch13ProductList\Ch13ProductList\Ch13ProductList\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\CIS 375\chapter 13\Ch13ProductList\Ch13ProductList\Ch13ProductList\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\CIS 375\chapter 13\Ch13ProductList\Ch13ProductList\Ch13ProductList\bin\roslyn\System.Collections.Immutable.dll
+D:\CIS 375\chapter 13\Ch13ProductList\Ch13ProductList\Ch13ProductList\bin\roslyn\System.Reflection.Metadata.dll
+D:\CIS 375\chapter 13\Ch13ProductList\Ch13ProductList\Ch13ProductList\bin\roslyn\vbc.exe
+D:\CIS 375\chapter 13\Ch13ProductList\Ch13ProductList\Ch13ProductList\bin\roslyn\VBCSCompiler.exe
+D:\CIS 375\chapter 13\Ch13ProductList\Ch13ProductList\Ch13ProductList\bin\roslyn\VBCSCompiler.exe.config
+D:\CIS 375\chapter 13\Ch13ProductList\Ch13ProductList\Ch13ProductList\bin\Ch13ProductList.dll.config
+D:\CIS 375\chapter 13\Ch13ProductList\Ch13ProductList\Ch13ProductList\bin\Ch13ProductList.dll
+D:\CIS 375\chapter 13\Ch13ProductList\Ch13ProductList\Ch13ProductList\bin\Ch13ProductList.pdb
+D:\CIS 375\chapter 13\Ch13ProductList\Ch13ProductList\Ch13ProductList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\CIS 375\chapter 13\Ch13ProductList\Ch13ProductList\Ch13ProductList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\CIS 375\chapter 13\Ch13ProductList\Ch13ProductList\Ch13ProductList\obj\Debug\Ch13ProductList.csprojResolveAssemblyReference.cache
+D:\CIS 375\chapter 13\Ch13ProductList\Ch13ProductList\Ch13ProductList\obj\Debug\Ch13ProductList.dll
+D:\CIS 375\chapter 13\Ch13ProductList\Ch13ProductList\Ch13ProductList\obj\Debug\Ch13ProductList.pdb
