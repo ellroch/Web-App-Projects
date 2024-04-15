@@ -1,0 +1,123 @@
+/*
+   New Perspectives on HTML and CSS
+   Tutorial 6
+   Case Problem 2
+
+   The Spice Bowl Payment Form Style Sheet
+   Author: Chris Glanzer
+   Date:  
+
+   Filename:         payment.css
+   Supporting Files: go.png, stop.png
+
+*/
+
+
+fieldset{border:none;
+         margin:5px;
+}
+
+fieldset legend{
+    background-color:rgb(239,198,145);
+    color: black;
+    margin:10px 0px 10px 20px; 
+    width:100%;
+    border-radius:10px;
+}
+
+label{
+    display:block;
+    clear:left;
+    float: left;
+    font-size:.8em;
+    text-align:left;
+    margin-right:5px;
+    width:28%;
+}
+
+select{display:block;
+       float:left;
+       font-size:.9em;
+       margin:2px;
+}
+
+textarea{
+    display:block;
+    clear:left;
+    float:left;
+    font-size:.9em;
+    height:75px;
+    width:60%;
+}
+
+label#longer{
+    width:50%;
+}
+
+fieldset.optionGroup{
+    margin-left:25%;
+}
+fieldset.optionGroup label{
+    display:inline;
+    float:none;
+    width:100px;
+}
+
+input[type="radio"]{
+    clear:left;
+    display:inline;
+    float:left;
+    margin:0px;
+    width:20px;
+}
+input[name="csc"]{
+    width:50px;
+}
+input[type="submit"]{
+    background-color:rgb(239,198,145);
+    clear:left;
+    float: left;
+    width:150px;
+    height:30px;
+    margin:10px auto;
+    border-radius:15px;
+}
+input[type="reset"]{
+    background-color:rgb(239,198,145);
+    clear:left;
+    float: left;
+    width:150px;
+    height:30px;
+    margin:10px auto;
+    border-radius:15px;
+}
+input:focus, select:focus, textarea:focus{
+    background-color:rgb(225,218,165);
+}
+input:focus:invalid{
+    background:rgb(255,244,215) url(stop.png) bottom right no-repeat;
+}
+
+label.sliderLabel{display:block;
+                  clear:left;
+                  float:left;
+                   font-size: 0.7em; 
+                   margin 10px 0px; 
+                   text-align:left; 
+                   width:300px;}
+label.sliderLabel2{display:block;
+                   clear: left;
+                   float:left;
+                   font-size: 0.7em; 
+                   margin: 10px 0px; 
+                   text-align:right; 
+                   width:100px;
+                   
+}
+
+input[type="range"]{clear:left;
+                  float:left;
+                   margin 10px 0px;
+                   width:150px;}
+
+

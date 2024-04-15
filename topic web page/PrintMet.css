@@ -1,0 +1,24 @@
+﻿/*
+    pls print only the memes, thx...
+
+*/
+
+
+@media print{
+    @page{
+         size: 8.5in 11in, landscape;
+         margin:.5in;
+    }
+    header, nav, h1, h2, h3, p, blockquote,footer{
+      display:none;
+    }
+    img{
+        display:block;
+        clear:right;
+        float:right;
+        margin:.5in;
+        height:initial;
+        width: initial;
+    }
+
+}
