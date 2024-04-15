@@ -1,0 +1,36 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="XEx08Reservation.Site" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<title>Chapter 9: Reservations</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <script src="Scripts/jquery-2.2.4.min.js"></script>
+    <script src="Scripts/bootstrap.min.js"></script>
+    <link href="Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="Content/site.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+<div class="container">
+    <header class="jumbotron">
+       <img src="Images/logo.png" alt="Royal Inns and Suites" />
+    </header>
+  <main>
+   <form id="form1" runat="server" class="form-horizontal">
+        <asp:ContentPlaceHolder ID="mainPlaceHolder" runat="server">
+
+        </asp:ContentPlaceHolder>
+
+   </form>
+  </main>
+    <footer>
+       <p>&copy; <asp:Label ID="lblYear" runat="server"></asp:Label> 
+           Royal Inns and Suites</p>
+    </footer>
+</div>
+</body>
+</html>
