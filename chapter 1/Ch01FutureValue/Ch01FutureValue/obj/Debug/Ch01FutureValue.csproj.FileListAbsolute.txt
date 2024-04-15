@@ -1,0 +1,120 @@
+c:\users\maryd.techknowsolve\documents\visual studio 2015\Projects\Ch01FutureValue\Ch01FutureValue\bin\roslyn\csc.exe
+c:\users\maryd.techknowsolve\documents\visual studio 2015\Projects\Ch01FutureValue\Ch01FutureValue\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\maryd.techknowsolve\documents\visual studio 2015\Projects\Ch01FutureValue\Ch01FutureValue\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\maryd.techknowsolve\documents\visual studio 2015\Projects\Ch01FutureValue\Ch01FutureValue\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\maryd.techknowsolve\documents\visual studio 2015\Projects\Ch01FutureValue\Ch01FutureValue\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\maryd.techknowsolve\documents\visual studio 2015\Projects\Ch01FutureValue\Ch01FutureValue\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\maryd.techknowsolve\documents\visual studio 2015\Projects\Ch01FutureValue\Ch01FutureValue\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\maryd.techknowsolve\documents\visual studio 2015\Projects\Ch01FutureValue\Ch01FutureValue\bin\roslyn\System.Collections.Immutable.dll
+c:\users\maryd.techknowsolve\documents\visual studio 2015\Projects\Ch01FutureValue\Ch01FutureValue\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\maryd.techknowsolve\documents\visual studio 2015\Projects\Ch01FutureValue\Ch01FutureValue\bin\roslyn\vbc.exe
+c:\users\maryd.techknowsolve\documents\visual studio 2015\Projects\Ch01FutureValue\Ch01FutureValue\bin\roslyn\VBCSCompiler.exe
+c:\users\maryd.techknowsolve\documents\visual studio 2015\Projects\Ch01FutureValue\Ch01FutureValue\bin\roslyn\VBCSCompiler.exe.config
+c:\users\maryd.techknowsolve\documents\visual studio 2015\Projects\Ch01FutureValue\Ch01FutureValue\bin\Ch01FutureValue.dll.config
+c:\users\maryd.techknowsolve\documents\visual studio 2015\Projects\Ch01FutureValue\Ch01FutureValue\bin\Ch01FutureValue.dll
+c:\users\maryd.techknowsolve\documents\visual studio 2015\Projects\Ch01FutureValue\Ch01FutureValue\bin\Ch01FutureValue.pdb
+c:\users\maryd.techknowsolve\documents\visual studio 2015\Projects\Ch01FutureValue\Ch01FutureValue\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\maryd.techknowsolve\documents\visual studio 2015\Projects\Ch01FutureValue\Ch01FutureValue\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\maryd.techknowsolve\documents\visual studio 2015\Projects\Ch01FutureValue\Ch01FutureValue\obj\Debug\Ch01FutureValue.csprojResolveAssemblyReference.cache
+c:\users\maryd.techknowsolve\documents\visual studio 2015\Projects\Ch01FutureValue\Ch01FutureValue\obj\Debug\Ch01FutureValue.dll
+c:\users\maryd.techknowsolve\documents\visual studio 2015\Projects\Ch01FutureValue\Ch01FutureValue\obj\Debug\Ch01FutureValue.pdb
+C:\Users\Maryd.TECHKNOWSOLVE\Documents\Visual Studio 2015\OutsideSource\Ch01FutureValue\Ch01FutureValue\bin\roslyn\csc.exe
+C:\Users\Maryd.TECHKNOWSOLVE\Documents\Visual Studio 2015\OutsideSource\Ch01FutureValue\Ch01FutureValue\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Maryd.TECHKNOWSOLVE\Documents\Visual Studio 2015\OutsideSource\Ch01FutureValue\Ch01FutureValue\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Maryd.TECHKNOWSOLVE\Documents\Visual Studio 2015\OutsideSource\Ch01FutureValue\Ch01FutureValue\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Maryd.TECHKNOWSOLVE\Documents\Visual Studio 2015\OutsideSource\Ch01FutureValue\Ch01FutureValue\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Maryd.TECHKNOWSOLVE\Documents\Visual Studio 2015\OutsideSource\Ch01FutureValue\Ch01FutureValue\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Maryd.TECHKNOWSOLVE\Documents\Visual Studio 2015\OutsideSource\Ch01FutureValue\Ch01FutureValue\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Maryd.TECHKNOWSOLVE\Documents\Visual Studio 2015\OutsideSource\Ch01FutureValue\Ch01FutureValue\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Maryd.TECHKNOWSOLVE\Documents\Visual Studio 2015\OutsideSource\Ch01FutureValue\Ch01FutureValue\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Maryd.TECHKNOWSOLVE\Documents\Visual Studio 2015\OutsideSource\Ch01FutureValue\Ch01FutureValue\bin\roslyn\vbc.exe
+C:\Users\Maryd.TECHKNOWSOLVE\Documents\Visual Studio 2015\OutsideSource\Ch01FutureValue\Ch01FutureValue\bin\roslyn\VBCSCompiler.exe
+C:\Users\Maryd.TECHKNOWSOLVE\Documents\Visual Studio 2015\OutsideSource\Ch01FutureValue\Ch01FutureValue\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Maryd.TECHKNOWSOLVE\Documents\Visual Studio 2015\OutsideSource\Ch01FutureValue\Ch01FutureValue\bin\Ch01FutureValue.dll.config
+C:\Users\Maryd.TECHKNOWSOLVE\Documents\Visual Studio 2015\OutsideSource\Ch01FutureValue\Ch01FutureValue\bin\Ch01FutureValue.dll
+C:\Users\Maryd.TECHKNOWSOLVE\Documents\Visual Studio 2015\OutsideSource\Ch01FutureValue\Ch01FutureValue\bin\Ch01FutureValue.pdb
+C:\Users\Maryd.TECHKNOWSOLVE\Documents\Visual Studio 2015\OutsideSource\Ch01FutureValue\Ch01FutureValue\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Maryd.TECHKNOWSOLVE\Documents\Visual Studio 2015\OutsideSource\Ch01FutureValue\Ch01FutureValue\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Maryd.TECHKNOWSOLVE\Documents\Visual Studio 2015\OutsideSource\Ch01FutureValue\Ch01FutureValue\obj\Debug\Ch01FutureValue.csprojResolveAssemblyReference.cache
+C:\Users\Maryd.TECHKNOWSOLVE\Documents\Visual Studio 2015\OutsideSource\Ch01FutureValue\Ch01FutureValue\obj\Debug\Ch01FutureValue.dll
+C:\Users\Maryd.TECHKNOWSOLVE\Documents\Visual Studio 2015\OutsideSource\Ch01FutureValue\Ch01FutureValue\obj\Debug\Ch01FutureValue.pdb
+C:\Murach\aspnet46_cs\book_applications\Ch01FutureValue\Ch01FutureValue\bin\roslyn\csc.exe
+C:\Murach\aspnet46_cs\book_applications\Ch01FutureValue\Ch01FutureValue\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Murach\aspnet46_cs\book_applications\Ch01FutureValue\Ch01FutureValue\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Murach\aspnet46_cs\book_applications\Ch01FutureValue\Ch01FutureValue\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Murach\aspnet46_cs\book_applications\Ch01FutureValue\Ch01FutureValue\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Murach\aspnet46_cs\book_applications\Ch01FutureValue\Ch01FutureValue\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Murach\aspnet46_cs\book_applications\Ch01FutureValue\Ch01FutureValue\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Murach\aspnet46_cs\book_applications\Ch01FutureValue\Ch01FutureValue\bin\roslyn\System.Collections.Immutable.dll
+C:\Murach\aspnet46_cs\book_applications\Ch01FutureValue\Ch01FutureValue\bin\roslyn\System.Reflection.Metadata.dll
+C:\Murach\aspnet46_cs\book_applications\Ch01FutureValue\Ch01FutureValue\bin\roslyn\vbc.exe
+C:\Murach\aspnet46_cs\book_applications\Ch01FutureValue\Ch01FutureValue\bin\roslyn\VBCSCompiler.exe
+C:\Murach\aspnet46_cs\book_applications\Ch01FutureValue\Ch01FutureValue\bin\roslyn\VBCSCompiler.exe.config
+C:\Murach\aspnet46_cs\book_applications\Ch01FutureValue\Ch01FutureValue\bin\Ch01FutureValue.dll.config
+C:\Murach\aspnet46_cs\book_applications\Ch01FutureValue\Ch01FutureValue\bin\Ch01FutureValue.dll
+C:\Murach\aspnet46_cs\book_applications\Ch01FutureValue\Ch01FutureValue\bin\Ch01FutureValue.pdb
+C:\Murach\aspnet46_cs\book_applications\Ch01FutureValue\Ch01FutureValue\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Murach\aspnet46_cs\book_applications\Ch01FutureValue\Ch01FutureValue\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Murach\aspnet46_cs\book_applications\Ch01FutureValue\Ch01FutureValue\obj\Debug\Ch01FutureValue.csprojResolveAssemblyReference.cache
+C:\Murach\aspnet46_cs\book_applications\Ch01FutureValue\Ch01FutureValue\obj\Debug\Ch01FutureValue.dll
+C:\Murach\aspnet46_cs\book_applications\Ch01FutureValue\Ch01FutureValue\obj\Debug\Ch01FutureValue.pdb
+C:\Users\Maryd.TECHKNOWSOLVE\SkyDrive\Documents\Murach\ASPNET4.6.Rewrite\bookapps\Ch01FutureValue\Ch01FutureValue\bin\roslyn\csc.exe
+C:\Users\Maryd.TECHKNOWSOLVE\SkyDrive\Documents\Murach\ASPNET4.6.Rewrite\bookapps\Ch01FutureValue\Ch01FutureValue\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Maryd.TECHKNOWSOLVE\SkyDrive\Documents\Murach\ASPNET4.6.Rewrite\bookapps\Ch01FutureValue\Ch01FutureValue\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Maryd.TECHKNOWSOLVE\SkyDrive\Documents\Murach\ASPNET4.6.Rewrite\bookapps\Ch01FutureValue\Ch01FutureValue\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Maryd.TECHKNOWSOLVE\SkyDrive\Documents\Murach\ASPNET4.6.Rewrite\bookapps\Ch01FutureValue\Ch01FutureValue\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Maryd.TECHKNOWSOLVE\SkyDrive\Documents\Murach\ASPNET4.6.Rewrite\bookapps\Ch01FutureValue\Ch01FutureValue\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Maryd.TECHKNOWSOLVE\SkyDrive\Documents\Murach\ASPNET4.6.Rewrite\bookapps\Ch01FutureValue\Ch01FutureValue\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Maryd.TECHKNOWSOLVE\SkyDrive\Documents\Murach\ASPNET4.6.Rewrite\bookapps\Ch01FutureValue\Ch01FutureValue\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Maryd.TECHKNOWSOLVE\SkyDrive\Documents\Murach\ASPNET4.6.Rewrite\bookapps\Ch01FutureValue\Ch01FutureValue\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Maryd.TECHKNOWSOLVE\SkyDrive\Documents\Murach\ASPNET4.6.Rewrite\bookapps\Ch01FutureValue\Ch01FutureValue\bin\roslyn\vbc.exe
+C:\Users\Maryd.TECHKNOWSOLVE\SkyDrive\Documents\Murach\ASPNET4.6.Rewrite\bookapps\Ch01FutureValue\Ch01FutureValue\bin\roslyn\VBCSCompiler.exe
+C:\Users\Maryd.TECHKNOWSOLVE\SkyDrive\Documents\Murach\ASPNET4.6.Rewrite\bookapps\Ch01FutureValue\Ch01FutureValue\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Maryd.TECHKNOWSOLVE\SkyDrive\Documents\Murach\ASPNET4.6.Rewrite\bookapps\Ch01FutureValue\Ch01FutureValue\bin\Ch01FutureValue.dll.config
+C:\Users\Maryd.TECHKNOWSOLVE\SkyDrive\Documents\Murach\ASPNET4.6.Rewrite\bookapps\Ch01FutureValue\Ch01FutureValue\bin\Ch01FutureValue.dll
+C:\Users\Maryd.TECHKNOWSOLVE\SkyDrive\Documents\Murach\ASPNET4.6.Rewrite\bookapps\Ch01FutureValue\Ch01FutureValue\bin\Ch01FutureValue.pdb
+C:\Users\Maryd.TECHKNOWSOLVE\SkyDrive\Documents\Murach\ASPNET4.6.Rewrite\bookapps\Ch01FutureValue\Ch01FutureValue\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Maryd.TECHKNOWSOLVE\SkyDrive\Documents\Murach\ASPNET4.6.Rewrite\bookapps\Ch01FutureValue\Ch01FutureValue\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Maryd.TECHKNOWSOLVE\SkyDrive\Documents\Murach\ASPNET4.6.Rewrite\bookapps\Ch01FutureValue\Ch01FutureValue\obj\Debug\Ch01FutureValue.csprojResolveAssemblyReference.cache
+C:\Users\Maryd.TECHKNOWSOLVE\SkyDrive\Documents\Murach\ASPNET4.6.Rewrite\bookapps\Ch01FutureValue\Ch01FutureValue\obj\Debug\Ch01FutureValue.dll
+C:\Users\Maryd.TECHKNOWSOLVE\SkyDrive\Documents\Murach\ASPNET4.6.Rewrite\bookapps\Ch01FutureValue\Ch01FutureValue\obj\Debug\Ch01FutureValue.pdb
+M:\Current projects\ASP.NET 4.6 with C# 2015\Mary\book_applications\Ch01FutureValue\Ch01FutureValue\bin\roslyn\csc.exe
+M:\Current projects\ASP.NET 4.6 with C# 2015\Mary\book_applications\Ch01FutureValue\Ch01FutureValue\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+M:\Current projects\ASP.NET 4.6 with C# 2015\Mary\book_applications\Ch01FutureValue\Ch01FutureValue\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+M:\Current projects\ASP.NET 4.6 with C# 2015\Mary\book_applications\Ch01FutureValue\Ch01FutureValue\bin\roslyn\Microsoft.CodeAnalysis.dll
+M:\Current projects\ASP.NET 4.6 with C# 2015\Mary\book_applications\Ch01FutureValue\Ch01FutureValue\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+M:\Current projects\ASP.NET 4.6 with C# 2015\Mary\book_applications\Ch01FutureValue\Ch01FutureValue\bin\roslyn\Microsoft.CSharp.Core.targets
+M:\Current projects\ASP.NET 4.6 with C# 2015\Mary\book_applications\Ch01FutureValue\Ch01FutureValue\bin\roslyn\Microsoft.VisualBasic.Core.targets
+M:\Current projects\ASP.NET 4.6 with C# 2015\Mary\book_applications\Ch01FutureValue\Ch01FutureValue\bin\roslyn\System.Collections.Immutable.dll
+M:\Current projects\ASP.NET 4.6 with C# 2015\Mary\book_applications\Ch01FutureValue\Ch01FutureValue\bin\roslyn\System.Reflection.Metadata.dll
+M:\Current projects\ASP.NET 4.6 with C# 2015\Mary\book_applications\Ch01FutureValue\Ch01FutureValue\bin\roslyn\vbc.exe
+M:\Current projects\ASP.NET 4.6 with C# 2015\Mary\book_applications\Ch01FutureValue\Ch01FutureValue\bin\roslyn\VBCSCompiler.exe
+M:\Current projects\ASP.NET 4.6 with C# 2015\Mary\book_applications\Ch01FutureValue\Ch01FutureValue\bin\roslyn\VBCSCompiler.exe.config
+M:\Current projects\ASP.NET 4.6 with C# 2015\Mary\book_applications\Ch01FutureValue\Ch01FutureValue\bin\Ch01FutureValue.dll.config
+M:\Current projects\ASP.NET 4.6 with C# 2015\Mary\book_applications\Ch01FutureValue\Ch01FutureValue\bin\Ch01FutureValue.dll
+M:\Current projects\ASP.NET 4.6 with C# 2015\Mary\book_applications\Ch01FutureValue\Ch01FutureValue\bin\Ch01FutureValue.pdb
+M:\Current projects\ASP.NET 4.6 with C# 2015\Mary\book_applications\Ch01FutureValue\Ch01FutureValue\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+M:\Current projects\ASP.NET 4.6 with C# 2015\Mary\book_applications\Ch01FutureValue\Ch01FutureValue\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+M:\Current projects\ASP.NET 4.6 with C# 2015\Mary\book_applications\Ch01FutureValue\Ch01FutureValue\obj\Debug\Ch01FutureValue.csprojResolveAssemblyReference.cache
+M:\Current projects\ASP.NET 4.6 with C# 2015\Mary\book_applications\Ch01FutureValue\Ch01FutureValue\obj\Debug\Ch01FutureValue.dll
+M:\Current projects\ASP.NET 4.6 with C# 2015\Mary\book_applications\Ch01FutureValue\Ch01FutureValue\obj\Debug\Ch01FutureValue.pdb
+C:\aspnet46_cs\book_applications\Ch01FutureValue\Ch01FutureValue\bin\roslyn\csc.exe
+C:\aspnet46_cs\book_applications\Ch01FutureValue\Ch01FutureValue\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\aspnet46_cs\book_applications\Ch01FutureValue\Ch01FutureValue\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\aspnet46_cs\book_applications\Ch01FutureValue\Ch01FutureValue\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\aspnet46_cs\book_applications\Ch01FutureValue\Ch01FutureValue\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\aspnet46_cs\book_applications\Ch01FutureValue\Ch01FutureValue\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\aspnet46_cs\book_applications\Ch01FutureValue\Ch01FutureValue\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\aspnet46_cs\book_applications\Ch01FutureValue\Ch01FutureValue\bin\roslyn\System.Collections.Immutable.dll
+C:\aspnet46_cs\book_applications\Ch01FutureValue\Ch01FutureValue\bin\roslyn\System.Reflection.Metadata.dll
+C:\aspnet46_cs\book_applications\Ch01FutureValue\Ch01FutureValue\bin\roslyn\vbc.exe
+C:\aspnet46_cs\book_applications\Ch01FutureValue\Ch01FutureValue\bin\roslyn\VBCSCompiler.exe
+C:\aspnet46_cs\book_applications\Ch01FutureValue\Ch01FutureValue\bin\roslyn\VBCSCompiler.exe.config
+C:\aspnet46_cs\book_applications\Ch01FutureValue\Ch01FutureValue\bin\Ch01FutureValue.dll.config
+C:\aspnet46_cs\book_applications\Ch01FutureValue\Ch01FutureValue\bin\Ch01FutureValue.dll
+C:\aspnet46_cs\book_applications\Ch01FutureValue\Ch01FutureValue\bin\Ch01FutureValue.pdb
+C:\aspnet46_cs\book_applications\Ch01FutureValue\Ch01FutureValue\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\aspnet46_cs\book_applications\Ch01FutureValue\Ch01FutureValue\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\aspnet46_cs\book_applications\Ch01FutureValue\Ch01FutureValue\obj\Debug\Ch01FutureValue.csprojResolveAssemblyReference.cache
+C:\aspnet46_cs\book_applications\Ch01FutureValue\Ch01FutureValue\obj\Debug\Ch01FutureValue.dll
+C:\aspnet46_cs\book_applications\Ch01FutureValue\Ch01FutureValue\obj\Debug\Ch01FutureValue.pdb
