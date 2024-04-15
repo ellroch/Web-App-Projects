@@ -1,0 +1,35 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="Ch08Cart.Site1" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>This is my mater page</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link href="Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="Content/site.css" rel="stylesheet" />
+    <script src="Scripts/jquery-3.1.1.min.js"></script>
+    <script src="Scripts/bootstrap.min.js"></script>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <div class="container">
+    <header class="jumbotron"><%-- image set in site.css --%></header>
+    <main>
+    <form id="form2" runat="server" class="form-horizontal">
+    <div>
+        <asp:ContentPlaceHolder ID="mainContent" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+   </form>
+  </main>
+ <footer class="text-center">
+     Cache Timestamp: <asp:Label ID="lblCacheTimestamp" runat="server"></asp:Label><br />
+     Number of Page Hits: <asp:Label ID="lblPageHits" runat="server"></asp:Label>
+ </footer>
+
+</div><%-- container --%>
+</body>
+</html>
