@@ -1,0 +1,39 @@
+﻿/*** Bootstrap overrides ***/
+.container {
+    border:1px solid #cecece;
+    margin-top: 1em;
+}
+
+.jumbotron {
+    background: url("../Images/banner.jpg");
+    background-size: 100% 100%;
+    margin-top: 1em;
+}
+
+label {
+    font-weight: normal;
+}
+
+/* Other styles */
+table a {
+    color: #8c8c8c;
+}
+
+.bg-halloween {
+    background-color: #8c8c8c;
+    color: white;
+    font-weight: bold;
+}
+
+.bg-halloween a, .bg-halloween span {
+    color: white;
+    padding: 0 0.5em;
+}
+
+.altRow {
+    background-color: #f9f9f9;
+}
+
+#fvCustomer {
+    width: 100%;
+}
