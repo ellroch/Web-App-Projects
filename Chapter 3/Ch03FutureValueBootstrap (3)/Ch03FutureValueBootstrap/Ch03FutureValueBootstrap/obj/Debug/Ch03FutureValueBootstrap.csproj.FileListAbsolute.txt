@@ -1,0 +1,108 @@
+C:\Users\Maryd.TECHKNOWSOLVE\SkyDrive\Documents\Murach\ASPNET4.6.Rewrite\bookapps\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\bin\roslyn\csc.exe
+C:\Users\Maryd.TECHKNOWSOLVE\SkyDrive\Documents\Murach\ASPNET4.6.Rewrite\bookapps\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Maryd.TECHKNOWSOLVE\SkyDrive\Documents\Murach\ASPNET4.6.Rewrite\bookapps\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Maryd.TECHKNOWSOLVE\SkyDrive\Documents\Murach\ASPNET4.6.Rewrite\bookapps\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Maryd.TECHKNOWSOLVE\SkyDrive\Documents\Murach\ASPNET4.6.Rewrite\bookapps\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Maryd.TECHKNOWSOLVE\SkyDrive\Documents\Murach\ASPNET4.6.Rewrite\bookapps\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Maryd.TECHKNOWSOLVE\SkyDrive\Documents\Murach\ASPNET4.6.Rewrite\bookapps\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Maryd.TECHKNOWSOLVE\SkyDrive\Documents\Murach\ASPNET4.6.Rewrite\bookapps\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Maryd.TECHKNOWSOLVE\SkyDrive\Documents\Murach\ASPNET4.6.Rewrite\bookapps\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Maryd.TECHKNOWSOLVE\SkyDrive\Documents\Murach\ASPNET4.6.Rewrite\bookapps\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\bin\roslyn\vbc.exe
+C:\Users\Maryd.TECHKNOWSOLVE\SkyDrive\Documents\Murach\ASPNET4.6.Rewrite\bookapps\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\bin\roslyn\VBCSCompiler.exe
+C:\Users\Maryd.TECHKNOWSOLVE\SkyDrive\Documents\Murach\ASPNET4.6.Rewrite\bookapps\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Maryd.TECHKNOWSOLVE\SkyDrive\Documents\Murach\ASPNET4.6.Rewrite\bookapps\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\bin\Ch03FutureValueBootstrap.dll.config
+C:\Users\Maryd.TECHKNOWSOLVE\SkyDrive\Documents\Murach\ASPNET4.6.Rewrite\bookapps\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\bin\Ch03FutureValueBootstrap.dll
+C:\Users\Maryd.TECHKNOWSOLVE\SkyDrive\Documents\Murach\ASPNET4.6.Rewrite\bookapps\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\bin\Ch03FutureValueBootstrap.pdb
+C:\Users\Maryd.TECHKNOWSOLVE\SkyDrive\Documents\Murach\ASPNET4.6.Rewrite\bookapps\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Maryd.TECHKNOWSOLVE\SkyDrive\Documents\Murach\ASPNET4.6.Rewrite\bookapps\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Maryd.TECHKNOWSOLVE\SkyDrive\Documents\Murach\ASPNET4.6.Rewrite\bookapps\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\obj\Debug\Ch03FutureValueBootstrap.csprojResolveAssemblyReference.cache
+C:\Users\Maryd.TECHKNOWSOLVE\SkyDrive\Documents\Murach\ASPNET4.6.Rewrite\bookapps\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\obj\Debug\Ch03FutureValueBootstrap.dll
+C:\Users\Maryd.TECHKNOWSOLVE\SkyDrive\Documents\Murach\ASPNET4.6.Rewrite\bookapps\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\obj\Debug\Ch03FutureValueBootstrap.pdb
+C:\aspnet46_cs\book_applications\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\bin\roslyn\csc.exe
+C:\aspnet46_cs\book_applications\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\aspnet46_cs\book_applications\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\aspnet46_cs\book_applications\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\aspnet46_cs\book_applications\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\aspnet46_cs\book_applications\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\aspnet46_cs\book_applications\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\aspnet46_cs\book_applications\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\bin\roslyn\System.Collections.Immutable.dll
+C:\aspnet46_cs\book_applications\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\bin\roslyn\System.Reflection.Metadata.dll
+C:\aspnet46_cs\book_applications\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\bin\roslyn\vbc.exe
+C:\aspnet46_cs\book_applications\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\bin\roslyn\VBCSCompiler.exe
+C:\aspnet46_cs\book_applications\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\bin\roslyn\VBCSCompiler.exe.config
+C:\aspnet46_cs\book_applications\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\bin\Ch03FutureValueBootstrap.dll.config
+C:\aspnet46_cs\book_applications\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\bin\Ch03FutureValueBootstrap.dll
+C:\aspnet46_cs\book_applications\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\bin\Ch03FutureValueBootstrap.pdb
+C:\aspnet46_cs\book_applications\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\aspnet46_cs\book_applications\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\aspnet46_cs\book_applications\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\obj\Debug\Ch03FutureValueBootstrap.csprojResolveAssemblyReference.cache
+C:\aspnet46_cs\book_applications\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\obj\Debug\Ch03FutureValueBootstrap.dll
+C:\aspnet46_cs\book_applications\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\obj\Debug\Ch03FutureValueBootstrap.pdb
+C:\Murach\aspnet46_cs\Student download\book_applications\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\bin\roslyn\csc.exe
+C:\Murach\aspnet46_cs\Student download\book_applications\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\bin\roslyn\csc.exe.config
+C:\Murach\aspnet46_cs\Student download\book_applications\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\bin\roslyn\csc.rsp
+C:\Murach\aspnet46_cs\Student download\book_applications\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\bin\roslyn\csi.exe
+C:\Murach\aspnet46_cs\Student download\book_applications\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\bin\roslyn\csi.rsp
+C:\Murach\aspnet46_cs\Student download\book_applications\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Murach\aspnet46_cs\Student download\book_applications\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Murach\aspnet46_cs\Student download\book_applications\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Murach\aspnet46_cs\Student download\book_applications\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Murach\aspnet46_cs\Student download\book_applications\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Murach\aspnet46_cs\Student download\book_applications\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Murach\aspnet46_cs\Student download\book_applications\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Murach\aspnet46_cs\Student download\book_applications\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Murach\aspnet46_cs\Student download\book_applications\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Murach\aspnet46_cs\Student download\book_applications\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Murach\aspnet46_cs\Student download\book_applications\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\bin\roslyn\System.AppContext.dll
+C:\Murach\aspnet46_cs\Student download\book_applications\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\bin\roslyn\System.Collections.Immutable.dll
+C:\Murach\aspnet46_cs\Student download\book_applications\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Murach\aspnet46_cs\Student download\book_applications\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\bin\roslyn\System.IO.FileSystem.dll
+C:\Murach\aspnet46_cs\Student download\book_applications\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Murach\aspnet46_cs\Student download\book_applications\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\bin\roslyn\System.Reflection.Metadata.dll
+C:\Murach\aspnet46_cs\Student download\book_applications\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\bin\roslyn\vbc.exe
+C:\Murach\aspnet46_cs\Student download\book_applications\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\bin\roslyn\vbc.exe.config
+C:\Murach\aspnet46_cs\Student download\book_applications\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\bin\roslyn\vbc.rsp
+C:\Murach\aspnet46_cs\Student download\book_applications\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\bin\roslyn\VBCSCompiler.exe
+C:\Murach\aspnet46_cs\Student download\book_applications\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\bin\roslyn\VBCSCompiler.exe.config
+C:\Murach\aspnet46_cs\Student download\book_applications\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\bin\Ch03FutureValueBootstrap.dll.config
+C:\Murach\aspnet46_cs\Student download\book_applications\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\bin\Ch03FutureValueBootstrap.dll
+C:\Murach\aspnet46_cs\Student download\book_applications\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\bin\Ch03FutureValueBootstrap.pdb
+C:\Murach\aspnet46_cs\Student download\book_applications\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Murach\aspnet46_cs\Student download\book_applications\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Murach\aspnet46_cs\Student download\book_applications\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\obj\Debug\Ch03FutureValueBootstrap.csprojResolveAssemblyReference.cache
+C:\Murach\aspnet46_cs\Student download\book_applications\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\obj\Debug\Ch03FutureValueBootstrap.dll
+C:\Murach\aspnet46_cs\Student download\book_applications\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\obj\Debug\Ch03FutureValueBootstrap.pdb
+D:\CIS 375\Chapter 3\Ch03FutureValueBootstrap (3)\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\bin\roslyn\csc.exe
+D:\CIS 375\Chapter 3\Ch03FutureValueBootstrap (3)\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\bin\roslyn\csc.exe.config
+D:\CIS 375\Chapter 3\Ch03FutureValueBootstrap (3)\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\bin\roslyn\csc.rsp
+D:\CIS 375\Chapter 3\Ch03FutureValueBootstrap (3)\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\bin\roslyn\csi.exe
+D:\CIS 375\Chapter 3\Ch03FutureValueBootstrap (3)\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\bin\roslyn\csi.rsp
+D:\CIS 375\Chapter 3\Ch03FutureValueBootstrap (3)\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\CIS 375\Chapter 3\Ch03FutureValueBootstrap (3)\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\CIS 375\Chapter 3\Ch03FutureValueBootstrap (3)\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\CIS 375\Chapter 3\Ch03FutureValueBootstrap (3)\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\CIS 375\Chapter 3\Ch03FutureValueBootstrap (3)\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\CIS 375\Chapter 3\Ch03FutureValueBootstrap (3)\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\CIS 375\Chapter 3\Ch03FutureValueBootstrap (3)\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\CIS 375\Chapter 3\Ch03FutureValueBootstrap (3)\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\CIS 375\Chapter 3\Ch03FutureValueBootstrap (3)\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\CIS 375\Chapter 3\Ch03FutureValueBootstrap (3)\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\CIS 375\Chapter 3\Ch03FutureValueBootstrap (3)\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\bin\roslyn\System.AppContext.dll
+D:\CIS 375\Chapter 3\Ch03FutureValueBootstrap (3)\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\bin\roslyn\System.Collections.Immutable.dll
+D:\CIS 375\Chapter 3\Ch03FutureValueBootstrap (3)\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\CIS 375\Chapter 3\Ch03FutureValueBootstrap (3)\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\bin\roslyn\System.IO.FileSystem.dll
+D:\CIS 375\Chapter 3\Ch03FutureValueBootstrap (3)\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\CIS 375\Chapter 3\Ch03FutureValueBootstrap (3)\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\bin\roslyn\System.Reflection.Metadata.dll
+D:\CIS 375\Chapter 3\Ch03FutureValueBootstrap (3)\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\bin\roslyn\vbc.exe
+D:\CIS 375\Chapter 3\Ch03FutureValueBootstrap (3)\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\bin\roslyn\vbc.exe.config
+D:\CIS 375\Chapter 3\Ch03FutureValueBootstrap (3)\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\bin\roslyn\vbc.rsp
+D:\CIS 375\Chapter 3\Ch03FutureValueBootstrap (3)\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\bin\roslyn\VBCSCompiler.exe
+D:\CIS 375\Chapter 3\Ch03FutureValueBootstrap (3)\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\bin\roslyn\VBCSCompiler.exe.config
+D:\CIS 375\Chapter 3\Ch03FutureValueBootstrap (3)\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\bin\Ch03FutureValueBootstrap.dll.config
+D:\CIS 375\Chapter 3\Ch03FutureValueBootstrap (3)\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\bin\Ch03FutureValueBootstrap.dll
+D:\CIS 375\Chapter 3\Ch03FutureValueBootstrap (3)\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\bin\Ch03FutureValueBootstrap.pdb
+D:\CIS 375\Chapter 3\Ch03FutureValueBootstrap (3)\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\CIS 375\Chapter 3\Ch03FutureValueBootstrap (3)\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\CIS 375\Chapter 3\Ch03FutureValueBootstrap (3)\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\obj\Debug\Ch03FutureValueBootstrap.csprojResolveAssemblyReference.cache
+D:\CIS 375\Chapter 3\Ch03FutureValueBootstrap (3)\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\obj\Debug\Ch03FutureValueBootstrap.dll
+D:\CIS 375\Chapter 3\Ch03FutureValueBootstrap (3)\Ch03FutureValueBootstrap\Ch03FutureValueBootstrap\obj\Debug\Ch03FutureValueBootstrap.pdb
