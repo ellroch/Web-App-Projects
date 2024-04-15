@@ -1,0 +1,21 @@
+<nav class="navbar navbar-default navbar-inverse">
+            <div class="container-fluid">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" 
+                            data-toggle="collapse" data-target="#mainMenu">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="Default.aspx">Home</a>
+                </div>
+                <div class="collapse navbar-collapse" id="mainMenu">
+                    <ul class="nav navbar-nav">
+                        <li><a href="Rooms.aspx">Rooms&nbsp;<span class="glyphicon glyphicon-bed"></span></a></li>
+                        <li><a href="Request.aspx">Reservations&nbsp;<span class="glyphicon glyphicon-pencil"></span></a></li>
+                        <li><a href="ContactUs.aspx">Contact Us&nbsp;<span class="glyphicon glyphicon-phone-alt"></span></a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
