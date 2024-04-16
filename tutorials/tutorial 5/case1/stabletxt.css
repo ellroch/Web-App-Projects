@@ -1,0 +1,46 @@
+/*
+   New Perspectives on HTML and CSS
+   Tutorial 5
+   Case Problem 1
+
+   Sudoku Puzzle Table Style Sheet
+   Author: Chris Glanzer
+   Date:   
+
+   Filename:         stable.css
+   Supporting Files: green.jpg, gold.jpg
+
+*/
+
+table.spuzzle, table.subTable {
+     border-collapse:collapse;
+}
+
+table.spuzzle td{
+    font-size:5px;
+    border:5px outset gray;
+    color:gray;
+}
+
+tbody th{
+    height:40px;
+}
+
+table.subTable td{
+    font-size:20px;
+    color: blue;
+    height:40px;
+    width:40px;
+   text-align:center;
+   vertical-align:central;
+   border:1px solid black;
+}
+
+td.goldbox td{
+    background: url(gold.jpg) center no-repeat;
+    background-position: 50% 50%;
+}
+td.greenbox td{
+    background:url(green.jpg) center no-repeat;
+    background-position: 50% 50%;
+}

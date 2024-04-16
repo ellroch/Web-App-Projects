@@ -1,0 +1,39 @@
+/*
+   New Perspectives on HTML and CSS
+   Tutorial 8
+   Case Problem 1
+   Special Effects style sheet
+   Author: Chris Glanzer
+   Date:   
+
+   Filename:         dweffects.css
+   Supporting Files: 
+
+*/
+
+
+body{
+    box-shadow: rgba(211,211,211,.5) 10px 0px 15px,rgba(211,211,211,.5) -10px 0px 15px ;
+}
+
+nav.horizontal li{
+    background-color: rgb(224,238,238);
+    border-radius: 10px;
+    box-shadow: white 3px 3px 2px inset, rgb(147,207,207) -5px -5px 5px inset; 
+}
+
+article{
+    box-shadow: rgb(171,171,171) 15px 15px 75px inset, rgb(101,101,101) 5px 5px 5px;
+}
+
+blockquote{
+    background: linear-gradient(left, rgb(166,230,230) 5%,rgb(231,231,231) 15%, rgb(255,255,255));
+    background: -webkit-linear-gradient(left, rgb(166,230,230) 5%,rgb(231,231,231) 33%, rgb(255,255,255));
+    filter: progid:DXImageTransform.Microsoft.gradient(GradientType=0, startColorstr=#DEF4F4, endColorstr=#FFFFFF);
+    -ms-filter: "progid:DXImageTransform.Microsoft.gradient (GradientType=0, startColorstr=#DEF4F4, endColorstr=#FFFFFF)";
+}
+
+
+
+
+

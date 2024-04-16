@@ -1,0 +1,28 @@
+/*
+   New Perspectives on HTML and CSS
+   Tutorial 8
+   Tutorial Case
+
+   Print Styles
+   Author: 
+   Date:   
+
+   Filename:         print.css
+   Supporting Files: 
+
+*/
+
+/* Styles to be used for print displays */
+
+@page{size:8.5in 11in portrait; margin:0.5in;}
+
+header nav footer{display:none;}
+article{display:block; page-break-after:always; page-break-inside:avoid;}
+h1{font-size:20pt; text-align:center; width:100%;}
+#photo1{display:block; margin: 0in auto; width:4in;}
+figure{display:block; text-align:center; page-break-after:always; page-break-inside:avoid;}
+figure img{width:5in;}
+figure figcaoption{font-size:20pt;}
+figure:last-of-type{page-break-after:avoid;}
+
+

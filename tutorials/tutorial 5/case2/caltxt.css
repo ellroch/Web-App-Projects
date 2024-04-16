@@ -1,0 +1,74 @@
+/*
+   New Perspectives on HTML and CSS
+   Tutorial 5
+   Case Problem 2
+
+   CCC Calendar Table style sheet
+   Author: Chris Glanzer
+   Date:   
+
+   Filename:         calendar.css
+   Supporting Files: bottom.jpg, bottomleft.jpg, bottomright.jpg,
+                     left.jpg, right.jpg, top.jpg,
+                     tab.jpg, topleft.jpg, topright.jpg, redtab.jpg
+
+*/
+
+
+table.calendar{
+    border:1px solid black;
+    font-size:8px;
+    margin-top:20px;
+    margin-bottom:5px;
+    padding:40px;
+    width:650px;
+    background:url(topleft.jpg) top left no-repeat,
+        url(topright.jpg) top right no-repeat,
+        url(bottomleft.jpg) bottom left no-repeat,
+        url(bottomright.jpg) bottom right no-repeat,
+        url(top.jpg) top repeat-x,
+        url(left.jpg) left repeat-y,
+        url(right.jpg) right repeat-y,
+        url(bottom.jpg) bottom repeat-x;
+}
+/*i couldnt remember if there was a way to get 5px border in the css... i googled it and used 
+    cellspacing="5px" in the html table tag
+*/
+table caption{text-align:center;
+              padding-bottom:10px;
+              font-size:16px;
+              kerning: 3px;
+              width:650px;
+}
+
+table td{
+    width: 14%;
+}
+
+table col.weekend{
+    background-color:rgb(255,232,232);
+}
+
+table thead tr th{
+    background-color:red;
+    color:white;
+    letter-spacing:5px;
+}
+
+table td{
+    border:1px solid gray;
+    vertical-align:top;
+}
+
+h3{
+    font-size: 8px;
+}
+
+div{
+    column-count:2;
+    column-width:300px;
+    column-gap:20px;
+    column-rule:1px solid black;
+}
+
+

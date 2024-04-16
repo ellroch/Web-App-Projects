@@ -1,0 +1,47 @@
+/*
+   New Perspectives on HTML and CSS
+   Tutorial 8
+   Case Problem 1
+
+   dessertWeb Print Styles
+   Author: Chris Glanzer
+   Date:   
+
+   Filename:         dwprint.css
+   Supporting Files: 
+
+*/
+
+
+@media print{
+    @page {
+        size: 8.5in 11in landscape;
+        /*I couldnt recall how to print in landscape... it was giving me a headache and none of the solutions on
+            the web were elegant so I just decided to take the point dock... How do I print something in landscape?
+            the size: landscape wasnt previewing in landscape in chrome;
+        */
+        margin: .5in;
+    }
+    header, section#left, section#right, nav, aside, footer, heading h2, article paragraph:last-of-type{
+        display: none;
+    }
+    h1{
+        font-size: 200%;
+        margin-bottom: .2in;
+    }
+    h2{
+        font-size:150%;
+        margin-top:.5in;
+    }
+    li{
+        line-height: 1.5em;
+    }
+    ol{
+        margin:.5in;
+        list-style-type:decimal;
+    }
+    h2:last-of-type{
+        page-break-before:always;
+    }
+
+}

@@ -1,0 +1,166 @@
+﻿<!DOCTYPE html>
+<html>
+
+   <head>
+   <!--
+      New Perspectives on HTML and CSS
+      Tutorial 6
+      Tutorial Case
+
+      Red Ball Pizza Customer Survey
+      Author:
+      Date:
+
+      Filename:         survey.htm
+      Supporting files: customer.png, forms.css, formsubmit.js, go.png,
+                        modernizr-1.5.js, rb.css, redball.png,
+                        stop.png
+   -->
+
+      <meta charset="UTF-8" />
+      <title>Customer Survey</title>
+      <script src="modernizr-1.5.js"></script>
+      <link href="rb.css" rel="stylesheet" />
+       <link href="formstxt.css" rel="stylesheet" />
+       <link href="rb.css" rel="stylesheet" />
+       <script src="formsubmit.js"></script>
+   </head>
+
+   <body>
+
+      <header>
+         <img src="redball.png" alt="Red Ball Pizza" />
+         <nav>
+            <ul>
+               <li><a href="#">home</a></li>
+               <li><a href="#">menu</a></li>
+               <li><a href="#">directions</a></li>
+               <li><a href="#">coupons</a></li>
+               <li><a href="#">orders</a></li>
+               <li><a href="#">catering</a></li>
+               <li><a href="#">reviews</a></li>
+            </ul>
+         </nav>
+
+         <article>
+            <h1>Customer Survey</h1>
+            <p>Thank you for taking our customer survey. Your response
+               helps Red Ball Pizza maintain the tradition that has made
+               us the top-rated pizzeria in the metro area.
+            </p>
+            <p>All participants are automatically entered into a monthly
+               drawing to receive a <em>Red Ball Express PizzaFest</em>
+               containing two large pizzas, a 2-liter soda, and a side
+               order of chicken wings. Check your e-mail inbox for
+               contest results.
+            </p>
+            <p>Surveys are private and confidential. Red Ball
+               Pizza will not share your contact information with third
+               parties, <em>ever</em>.
+            </p>
+         </article>
+      </header>
+
+   <section>
+      <p>Required values are marked by an asterisk (*)</p>
+       <form id="survey" name="survey" action="http://www.redballpizza.com/cgi-bin/survey" method="post">
+           <fieldset id="custInfo">
+                <legend>Customer Information</legend>
+               <label for="custname">Name *</label> <input type="text" name="custname" id="custname" placeholder="First and Last Name" required="required"/>
+               <label for="street">Street Address</label> <input type="text" name="street" id="street" />
+               <label for="city">City</label> <input type="text" name="city" id="city" value="Ormond Beach" />
+               <label for="state">State</label> <input type="text" name="state" id="state" value="FL" />
+               <label for="zip">Zip</label> <input type="tel" name="zip" id="zip" placeholder="nnnnn (-nnnn)" pattern="^\d{5}(\-\{4})?$"/>
+               <label for="phone">phone</label> <input type="tel" name="phone" id="phone" placeholder="(nnn) nnn-nnnn"/>
+               <label for="email">email</label> <input type="email" name="email" id="email" required="required" />
+
+               <label>Were did you hear about us? <br />(select all that apply)</label>
+               <select name="infoSrc" id="infoSrc" size="5" multiple="multiple">
+                   <option value="internet">internet</option>
+                   <option value="mag">Magazine</option>
+                   <option value="news">Newspaper</option>
+                   <option value="word">word of mouth</option>
+                   <option value="other">Other</option>
+               </select>
+               <label for="ordersPerMonth">how many times do you dine out per month?
+               </label>
+               <input type="number" name="ordersPerMonth" id="ordersPerMonth" min="0" max="10" value="1" step="1" />
+           </fieldset>
+
+           <fieldset id="experience">
+               <legend>Share your Experience at Red Ball Pizza</legend>
+               <label for="visitdate">Date of Visit</label> <input type="date" name="visitdate" id="visitdate" />
+               <label for="receipt">Receipt Number *</label> <input type="text" name="receipt" id="receipt" required="required" pattern="^re\-\d{6}$"/>
+               <label for="ordertype">Order Type</label>
+               <select name="ordertype" id="ordertype">
+                   <option value="type1"> Carry Out</option>
+                   <option value="type2">Delivery</option>
+                   <option value="type3" selected="selected"> Dine-On</option>
+                   <option value="type3">Take and Bake</option>
+               </select>
+
+               <label>Was your service Friendly?</label>
+               <fieldset class="optionGroup">
+                   <label for="sYes">YES</label>
+                   <input type="radio" name="serviceFriendly" id="sYes" value="yes" checked="checked" />
+                   <label for="sNo">NO</label>
+                   <input type="radio" name="serviceFriendly" id="sNo" value="no" checked="checked" />
+               </fieldset>
+           </fieldset>
+
+           <label>Was your order correct?</label>
+           <fieldset class="optionGroup">
+               <label for="oYes">YES</label>
+               <input type="radio" name="ordercorrect" id="oYes" value="yes" checked="checked" />
+               <label for="oNo">NO</label>
+               <input type="radio" name="ordercorrect" id="oNo" value="no" checked="checked" />
+
+               <fieldset class="optionGroup">
+
+                   <label>rate the overall service<br />(0=poor 10=great)</label>
+                   <label class="sliderLabel">0</label>
+                   <input name="service" id="service" type="range" value="5" min="0" max="10" step="1" />
+                   <label class="sliderLabel">10</label>
+
+                   <label for="favDish">whats your favorite red ball dish</label>
+                   <input name="favDish" id="favDish" list="dishType" />
+                   <datalist id="dishType">
+                       <option value="Antipeto Pizza"></option>
+                       <option value="Big Kahuna Pizza"></option>
+                       <option value="BBQ chicken pizza"></option>
+                       <option value="Mediteranean Herb Pizza"></option>
+
+                   </datalist>
+                   <label>Was your food hot?</label>
+                   <label for="fYes">YES</label>
+                   <input type="radio" name="foodhot" id="fYes" value="yes" checked="checked" />
+                   <label for="fNo">NO</label>
+                   <input type="radio" name="foodhot" id="fNo" value="no" checked="checked" />
+               </fieldset>
+
+               <label for="comments">Tell us more about your experience!</label>
+               <textarea name="comments" id="comments" placeholder="comments"></textarea>
+           </fieldset>
+           <label id="newsletter"> </label>
+               <input type="checkbox" name="newscb"checked="checked" />email me youjr newsletter for great coupons and speials!
+
+           <p>
+               <input type="submit" value="submit my survey" />
+               <input type="reset" value="reset my survey" />
+
+           </p>
+       </form>
+   </section>
+
+   <footer>
+      <address>
+         Red Ball Pizza &bull;
+         811 Beach Drive &bull;
+         Ormond Beach, FL  32175 &bull;
+         (386) 555 - 7499
+      </address>
+   </footer>
+
+   </body>
+
+</html>

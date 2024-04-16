@@ -1,0 +1,91 @@
+/*
+   New Perspectives on HTML and CSS
+   Tutorial 4
+   Case Problem 1
+
+   History Style Sheet
+   Author: Chris glanzer
+   Date:  10/6/2016 
+
+   Filename:         history.css
+   Supporting Files: 
+
+*/
+header, section, nav{display:block;
+                     padding:0px,0px,0px,0px;
+                     margin:0px,0px,0px,0px;
+                    
+}
+
+header{background-color:rgb(51, 51, 51);
+       align-content:center;
+       width:55em;
+}
+
+header img{height:4em;}
+
+nav ul{float:left;
+       width: 15em;
+       background-color:rgb(51,51,51);
+
+}
+
+nav ul li{
+    font-family: 'Century Gothic', sans-serif;
+    font-size:.7em;
+    list-style:none;
+    line-height:1.4em;
+    margin-left:1em;
+    margin-bottom:1.2em;
+}
+
+nav ul li a:link{
+    color:rgb(212,212,212);
+    text-decoration:none;
+}
+
+nav ul li a:link:hover{
+    color: white;
+}
+
+#speech{background-color:rgb(212,212,212);
+        width:40em;
+        float:left;
+        font-family:'Palatino Linotype','Book Antiqua','Palatino',serif;
+}
+
+#speech h1{
+    background-color:rgb(51,51,51);
+    color:rgb(212,212,212);
+    font-size:2em;
+    text-align:center;
+}
+
+#speech p{font-size:0.9em;
+          margin:1em;
+}
+
+p:first-of-type:first-line:first-letter{
+    float:left;
+    font-size:4em;
+    line-height:0.8em;
+    margin:.3em;
+    padding-bottom:0.2em;
+    padding-right:0.2em;
+    border-color: black;
+    border-bottom-width:0.2em;
+    border-right-width:0.2em;
+}
+
+p:first-of-type::first-line{
+    text-transform:uppercase;
+}
+
+
+
+
+
+
+
+
+

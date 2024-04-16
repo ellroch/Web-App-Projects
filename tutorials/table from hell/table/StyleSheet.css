@@ -1,0 +1,60 @@
+﻿table{
+    border:1px solid black;
+    width:75%;
+}
+
+th{
+    background-color:aqua;
+    font-size:25px;
+    color:rgba(0,0,0,.5);
+    border:1px solid black;
+}
+
+td{
+    border:1px solid black;
+}
+
+#r1{
+    vertical-align:top;
+}
+#r2{
+    background-color:dimgray;
+    color:lightgray;
+}
+
+#r3{
+    background-color:orangered;
+    color:white;
+}
+
+#r4{
+    vertical-align:bottom;
+}
+
+#r5{
+    text-align:center;
+}
+
+#r6{
+    border: 2px groove rgb(255, 0, 94);
+    font-family:'Book Antiqua';
+    font-style:oblique;
+}
+
+#r7{
+    background-color:darkgreen;
+    color: greenyellow;
+}
+
+#crimson{
+    background-color:crimson;
+}
+
+#gray{
+    background-color:gray;
+}
+
+
+
+
+

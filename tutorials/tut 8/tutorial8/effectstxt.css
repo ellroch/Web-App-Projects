@@ -1,0 +1,34 @@
+/*
+   New Perspectives on HTML and CSS
+   Tutorial 8
+   Tutorial Case
+
+   Special Effects style sheet
+   Author: 
+   Date:   
+
+   Filename:         effects.css
+   Supporting Files: borderimg.png
+
+*/
+
+section#main {color: rgb(90,127,0);
+              text-shadow:black 1px 1px 0px, rgba(90,127,0,0.7) 5px 5px 10px;
+}
+
+figure img#photo1{border-radius: 25px;
+           box-shadow:rgba(0,0,0,.6) 10px 10px 15px;
+}
+section#main{box-shadow:inset rgba(0,0,0,.3) -5px -5px 10px;}
+section#main table{box-shadow: black 5px 5px 5px;}
+figure#photo4{transform:rotate(-30deg);}
+figure#photo5{transform:rotate(30deg);}
+article{background:linear-gradient(black rgb(51,101,51) 20%, white 80%);}
+article img{border-width:10px;
+            border-style: solid;
+            border-image:url("borderimg.png") 50 repeat;
+}
+figure#photo4, figure#photo5{opacity:.7;}
+
+
+

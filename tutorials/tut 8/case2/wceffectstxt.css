@@ -1,0 +1,31 @@
+/*
+   New Perspectives on HTML and CSS
+   Tutorial 8
+   Case Problem 2
+
+   Special Effects style sheet
+   Author: 
+   Date:   
+
+   Filename:         wceffects.css
+   Supporting Files: 
+
+*/
+
+body{
+    box-shadow: rgba(31,61,31,.9) 20px 0px 25px, rgba(31,61,31,.9) -20px 0px 25px;
+}
+
+aside div{
+    opacity: 75%;
+    filter: alpha(opacity=75);
+    box-shadow: rgba(101,101,101,.7) 5px 5px 10px;
+
+}
+
+
+
+
+
+
+

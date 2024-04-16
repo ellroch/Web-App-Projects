@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html>
+
+   <head>
+   <!--
+      New Perspectives on HTML and CSS
+      Tutorial 6
+      Case Problem 2
+
+      The Spice Bowl
+      Author: Chris glanzer
+      Date:   
+
+      Filename:         spice.htm
+      Supporting files: diners.png, discover.png, formsubmit.js,
+                        go.png, master.png, modernizr-1.5.js, payment.css, 
+                        regex.txt, sb.css, sbback.png, sblogo.png,
+                        state.txt, stop.png, visa.png
+   -->
+
+      <meta charset="UTF-8" />
+      <title>Spice Bowl Financial Information</title>
+      <script src="modernizr-1.5.js"></script>
+      <script src="formsubmit.js"></script>
+      <link href="sb.css" rel="stylesheet" type="text/css" />
+       <link href="paytxt.css" rel="stylesheet" />
+   </head>
+
+
+   <body>
+      <header>
+         <img src="sblogo.png" alt="The Spice Bowl" />
+      </header>
+
+      <nav>
+         <ul>
+            <li class="newgroup"><a href="#">Home</a></li>
+            <li><a href="#">Keyword Search</a></li>
+      
+            <li class="newgroup"><a href="#">Spices</a></li>
+            <li><a href="#">Seasonings</a></li>
+            <li><a href="#">Blends</a></li>
+            <li><a href="#">Salts &amp; Peppers</a></li>
+            <li><a href="#">Popcorn Seasonings</a></li>
+            <li><a href="#">Dip Mixes</a></li>
+            <li><a href="#">Bulk Spices</a></li>
+            <li><a href="#">Extracts</a></li>
+            <li><a href="#">Flavorings</a></li>
+      
+            <li class="newgroup"><a href="#">Spice Jars</a></li>
+            <li><a href="#">Spice Jar Labels</a></li>
+            <li><a href="#">Spice Sets</a></li>
+            <li><a href="#">Mortar &amp; Pestles</a></li>
+      
+            <li class="newgroup"><a href="#">Cookbooks</a></li>
+            <li><a href="#">Online Recipes</a></li>
+            <li><a href="#">Forums</a></li>
+      
+            <li class="newgroup"><a href="#">My Account</a></li>
+            <li><a href="#">Checkout</a></li>
+            <li><a href="#">Order History</a></li>
+            <li><a href="#">Shipping Info</a></li>
+      
+            <li class="newgroup"><a href="#">Tech Support</a></li>
+            <li><a href="#">Hours</a></li>
+            <li><a href="#">Contact Us</a></li>
+         </ul>
+      </nav>
+
+      <section>
+
+         <h1>Payment Form</h1>
+          <form action="http://www.thespicebowlcorp.com/cgi-bin/payment" method="post">
+              <fieldset id="billing">
+                  <legend>Billing Information (required)</legend>
+                  <label for="fname">First Name<input name="fname" type="text" required="required"/></label>
+                  <label for="lname">Last Name<input name="lname" type="text" required="required"/></label>
+                  <label for="street">Street Address<input name="street" type="text" required="required"/></label>
+                  <label for="street2">Street Address (2)<input name="street2" type="text"/></label>
+                  <label for="city">City <input name="city" type="text" required="required"/></label>
+                  <label for="state">State
+                      <select id="statelist" name="state"required="required">
+                        <option value="AL">AL</option>
+                        <option value="AK">AK</option>
+                        <option value="AZ">AZ</option>
+                        <option value="AR">AR</option>
+                        <option value="CA">CA</option>
+                        <option value="CO">CO</option>
+                        <option value="CT">CT</option>
+                        <option value="DE">DE</option>
+                        <option value="FL">FL</option>
+                        <option value="GA">GA</option>
+                        <option value="HI">HI</option>
+                        <option value="ID">ID</option>
+                        <option value="IL">IL</option>
+                        <option value="IN">IN</option>
+                        <option value="IA">IA</option>
+                        <option value="KS">KS</option>
+                        <option value="KY">KY</option>
+                        <option value="LA">LA</option>
+                        <option value="ME">ME</option>
+                        <option value="MD">MD</option>
+                        <option value="MA">MA</option>
+                        <option value="MI">MI</option>
+                        <option value="MN">MN</option>
+                        <option value="MS">MS</option>
+                        <option value="MO">MO</option>
+                        <option value="MT">MT</option>
+                        <option value="NE">NE</option>
+                        <option value="NV">NV</option>
+                        <option value="NH">NH</option>
+                        <option value="NJ">NJ</option>
+                        <option value="NM">NM</option>
+                        <option value="NY">NY</option>
+                        <option value="NC">NC</option>
+                        <option value="ND">ND</option>
+                        <option value="OH">OH</option>
+                        <option value="OK">OK</option>
+                        <option value="OR">OR</option>
+                        <option value="PA">PA</option>
+                        <option value="RI">RI</option>
+                        <option value="SC">SC</option>
+                        <option value="SD">SD</option>
+                        <option value="TN">TN</option>
+                        <option value="TX">TX</option>
+                        <option value="UT">UT</option>
+                        <option value="VT">VT</option>
+                        <option value="VA">VA</option>
+                        <option value="WA">WA</option>
+                        <option value="WV">WV</option>
+                        <option value="WI">WI</option>
+                        <option value="WY">WY</option>
+                      </select> 
+                  </label>
+                  <label for="zip">ZIP/Postal Code <input type="number" pattern="^\d{5}(\-\d{4})?$" name="zip"required="required"/></label>
+                  <label for="country">Country <input type="text" value="United States" name="country"required="required"/></label>
+                  <label for="phone">Phone<input type="tel" name="phone" pattern="^\d{10}$|^(\(\d{3}\)\s*)?\d{3}[\s-]?\d{4}$" required="required"/></label>
+
+              </fieldset>
+              <fieldset id="creditcard">
+                  <legend>Credit Card (required)</legend>
+                  <fieldset class="optionGroup">
+                      <label>
+                          <input type="radio" name="cc" value="diners" required="required"/>
+                          <img src="diners.png" />
+                      </label>
+                      <label>
+                          <input type="radio" name="cc" value="discover" required="required"/>
+                          <img src="discover.png" />
+                      </label>
+                      <label>
+                          <input type="radio" name="cc" value="master" required="required"/>
+                          <img src="master.png" />
+                      </label>
+                      <label>
+                          <input type="radio" name="cc" value="visa" required="required"/>
+                          <img src="visa.png" />
+                      </label>
+                  </fieldset>
+
+
+                  <label for="ccardnumber">Credit Card Number<input type="number" pattern="^(?:4[0-9]{12}(?:[0-9]{3})?|5[1-5][0-9]{14}|6(?:011|5[0-9][0-9])[0-9]{12}|3[47][0-9]{13}|3(?:0[0-5]|[68][0-9])[0-9]{11}|(?:2131|1800|35\d{3})\d{11})$" name="ccardnumber"required="required"/></label>
+                  <label>Expiration Date
+                      <select name="month"required="required">
+                          <option value="01">01</option>
+                          <option value="02">02</option>
+                          <option value="03">03</option>
+                          <option value="04">04</option>
+                          <option value="05">05</option>
+                          <option value="06">06</option>
+                          <option value="07">07</option>
+                          <option value="08">08</option>
+                          <option value="09">09</option>
+                          <option value="10">10</option>
+                          <option value="11">11</option>
+                          <option value="12">12</option>
+                      </select>
+                      <select name="year"required="required">
+                          <option value="--MONTH--">--MONTH--</option>
+                          <option value="2014">2014</option>
+                          <option value="2015">2015</option>
+                          <option value="2016">2016</option>
+                          <option value="2017">2017</option>
+                          <option value="2018">2018</option>
+                      </select>
+                  </label>
+                  <label for="csc">CSC<input title="csc" name="csc" type="text" max="999" pattern="^\d{3}$" placeholder="nnn" required="required"/></label>
+
+
+              </fieldset>
+              <fieldset id="info">
+                  <legend>Additional Information</legend>
+                  <label>Contat Email <input type="email" name="email" /> </label>
+                  <label>Special Notes<textarea name="notes"></textarea></label>
+              </fieldset>
+              <input type="submit" value="Submit Order" />
+          </form>
+
+         <footer>
+            <address>The Spice Bowl &#183; 871 Park St. &#183; 
+                     East Point, GA 30344
+                     &#183; (404) 555- 8711
+            </address>
+         </footer>
+
+      </section>
+
+
+      <aside>
+         <h1>The Spice Bowl Recommends</h1>
+         <h2>Salt-Roasted Pecans</h2>
+         <ul>
+            <li>2 cups pecans</li>
+            <li>3 Tbs. butter, melted</li>
+            <li>1 1/4 tsp. fine sea salt</li>
+         </ul>
+         <p>Preheat oven to 325&deg;. Toss pecans and butter together; 
+            add salt and toss again.  Spread in a single layer on a baking 
+            sheet.  Bake about 15 minutes.  Cook on baking sheet.
+         </p>
+
+         <h2>Dried Beef Sticks</h2>
+         <ul>
+            <li>5 lbs. ground chuck</li>
+            <li>5 Tbs. quick salt</li>
+            <li>3 tsp. mustard seed</li>
+            <li>2 tsp. granulated garlic</li>
+            <li>2 tsp. cracked pepper</li>
+            <li>1 Tbs. hickory smoked salt</li>
+            <li>1 Tbs. liquid smoke</li>
+         </ul>
+         <p>Mix beef and season.  Place in a large covered container 
+            for three days; make sure beef is thoroughly mixed each day.  
+            On third day, shape beef into sticks, and bake at 150&deg; for 
+            8 hours (turn half-way through).
+         </p>
+      </aside>
+
+
+   </body>
+
+</html>
